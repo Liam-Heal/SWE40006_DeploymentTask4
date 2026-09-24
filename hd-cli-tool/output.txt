@@ -1,0 +1,23 @@
+Word Frequency Report
+======================
+
+and: 3
+it: 3
+docker: 2
+is: 2
+a: 2
+running: 2
+containers: 2
+application: 2
+of: 2
+platform: 1
+for: 1
+building: 1
+shipping: 1
+applications: 1
+inside: 1
+lightweight: 1
+package: 1
+an: 1
+together: 1
+with: 1
